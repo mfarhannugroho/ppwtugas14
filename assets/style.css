@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+}
+
+h4 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+
+h5 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.navbar-custom {
+    background-color: #212529;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.navbar-custom .navbar-brand {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-custom .nav-link {
+    color: white;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+}  
+
+.navbar-custom .nav-link:hover {
+    color: #ffc107;
+}
+
+.cotainerx{
+    max-width: 968px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-color{
+    color: #06BEE1;
+}
+
+.home{
+    background: url('sectionone__bg.jpg') no-repeat center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sectionthree{
+    background: url('underwater_cleaning.jpg') no-repeat center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sectionfour__img{
+    
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.sectionfour__bg1{
+    background: url('project1__problems.jpg') no-repeat center;
+}
+
+.sectionfour__bg2{
+    background: url('project1__solution.jpg') no-repeat center;
+}
+
+.sectionfour__bg3{
+    background: url('project2__problems.jpg') no-repeat center;
+}
+
+.sectionfour__bg4{
+    background: url('project2__solution.jpg') no-repeat center;
+
+}
+
+
+
+
+.section{
+    padding: 6rem 0 2rem;
+}  
+
+.imglogo{
+    
+width: 50px;
+height: 50px;
+
+}
+
+.sectiontwo .row .col-sm-4 p {
+    color: #494C57;
+    font-weight: 300;
+    line-height: 160%;
+}
+
+.card{
+    margin-top: 24px;
+}
+
+.card-inverse .card-img-overlay .card-title {
+    color: white;
+}
+
+.card-inverse .card-img-overlay .card-text {
+    color: white;
+    font-weight: 300;
+}
